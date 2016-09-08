@@ -74,10 +74,10 @@
           <div class="col-lg-8">
 		  <div class="box fill">
             <hr>
-            <h2 class="intro-text text-center">Congraduations 2016 Graduates!</h2>
+            <h2 class="intro-text text-center">Happy Fall!</h2>
             <hr>
-			<img class="img-responsive img-border img-left" src="../img/index/Graduation.jpg" alt="Congrats Grads">
-            <p> Donovan's Party & Novelty has everything you need for a memorable graduation party including yard signs, banners and balloons for all of the local high schools.</p>
+			<img class="img-responsive img-border img-left" src="../img/index/Bountiful_Blessings_Group.jpg" alt="Thanksgiving tableware">
+            <p> Donovan's Party & Novelty has everything you need for a perfect fall event. We have you covered for Halloween, Thanksgiving or just a festive fall party! Donovans Party & Novelty has decorations, tableware, and costumes for you!  </p>
         </div>
         </div>
 		<div class="col-lg-4 text-center">
